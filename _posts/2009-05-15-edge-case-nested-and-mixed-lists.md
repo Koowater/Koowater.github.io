@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "블로그 테스트"
 categories:
   - Edge Case
 tags:

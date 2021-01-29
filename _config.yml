@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: koo9water@gmail.com
+      # url: "koo9water@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -116,7 +116,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url : "https://www.instagram.com/koowater9/"
+      # url: "https://www.instagram.com/koowater9/"
 
 # Site Footer
 footer:
